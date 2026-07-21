@@ -17,7 +17,7 @@ Para crear un grupo en la app no necesitas inicio de sesión, simplemente presio
 Los grupos no son protegidos por contraseñas, así que el nombre de tu grupo es tu contraseña, entre más complicado sea, mejor.
 Por ello se recomienda que tu nombre del grupo contenga:
 
--Mayúsculas
+-Mayúsculas y minúsuclas
 
 -Nombre mayor a 15 caracteres
 
