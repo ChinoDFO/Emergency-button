@@ -34,7 +34,7 @@ Cuenta con dos leds: Uno verde y uno rojo (de preferencia estos colores).
 
 1.-Dejar presionado el botón en los primeros 3 segundos que se conecte a corriente. Ambos leds prenderán y apagarán, para dejar el led rojo encendido, eso significa que el botón entro en modo configuración.
 
-2.-Entra a tus ajustes de WiFi y verás una red llamda ALAMAR CONFIG. Conectate a esa red y de forma automática se abrira el portal de configuración de red. Si no se abre automáticamente, entra a tu navegador y escribe la siguiente IP: 192.168.4.1
+2.-Entra a tus ajustes de WiFi y verás una red llamada "ALARMA CONFIG". Conectate a esa red y de forma automática se abrira el portal de configuración de red. Si no se abre automáticamente, entra a tu navegador y escribe la siguiente IP: 192.168.4.1
 
 3.-En el portal seleccionarás la opción: "Configurar WiFi" (o algo similar).
 
