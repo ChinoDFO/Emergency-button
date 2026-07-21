@@ -26,7 +26,7 @@ Por ello se recomienda que tu nombre del grupo contenga:
 -Caracteres expeciales: ()-+@/.
 
 Para meter a más personas al grupo, tienen que seguir los mismos pasos. Seleccionar el botón con el ícono
-'+' y colocar el del grupo que creaste.
+'+' y colocar el del grupo que creaste, por último seleccionar la opción "suscribir".
 
 ------------------------CONFIGURACIÓN DEL BOTÓN------------------------
 
