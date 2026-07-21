@@ -1,4 +1,5 @@
 ------------------------INTRODUCCIÓN------------------------
+
 Programa para **Esp32**.
 Botón de emergencia para negocios. Usa una aplicación externa llamada "ntfy" para mandar la notifiación de alerta. se hace una solicitud https usando POST para mandar una notificación a todos aquellos
 suscritos a un grupo en la app. 
@@ -6,6 +7,7 @@ Funciona obligatoriamente con WiFi, con capacidad de almacenar dos redes: Una pr
 Cuenta con un respaldo de energía en caso de que no haya luz.
 
 ------------------------CONFIGURACIÓN DE GRUPO------------------------
+
 Para crear un grupo en la app no necesitas inicio de sesión, simplemente presiona el botón con el ícono '+', asignas nombre a tu grupo
 y presionas la opción "suscribir".
 
@@ -20,6 +22,7 @@ Por ello se recomienda que tu nombre del grupo contenga:
 Para meter a más personas al grupo, tienen que seguir los mismos pasos que tu.
 
 ------------------------CONFIGURACIÓN DEL BOTÓN------------------------
+
 Cuenta con dos leds: Uno verde y uno rojo (de preferencia estos colores).
 1.-Dejar presionado el botón en los primeros 3 segundos que se conecte a corriente. Ambos leds prenderán y apagarán, para dejar el led rojo
 encendido, eso significa que el botón entro en modo configuración.
